@@ -1,6 +1,9 @@
 MonkeySpeak
 Programmed by Adam Fryman 2017
 Exposes the HTML5 TTS Engines to monkey
+Working on Firefox, Chrome, Opera, Safari, Edge for desktop
+Working on Chrome, Safari for Mobile (Should also work on edge)
+Not working in standard android browser, and facebook browser (Apart from on iPhone should technically still be safari)
 
 Use wherever you want code back would be nice but is not required.
 
